@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: sebinsunny/todo-app:1.0
         ports:
-        - containerPort: 8080
+        - containerPort: 3000
