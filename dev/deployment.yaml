@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sebinsunny/todo-app:1.1
+        image: sebinsunny/todo-app:latest
         ports:
         - containerPort: 3000
